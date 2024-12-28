@@ -1,0 +1,11 @@
+# Hexenküche
+
+Die App entstand als Projekt während meiner Umschulung, um den Umgang mit Python und Objektorrientierung zu lernen.
+Hierbei handelt es sich um eine Einkaufslisten App für Android 12+ Geräte, welche in Python geschrieben wurde.
+Benutzt wurden hierbei die Bibliotheken von Kivy und KivyMD, kompiliert wurde es mit Buildozer.
+
+## Anforderungen
+
+- Android Gerät mit Android 12 aufwärts
+
+Bisher wurde es nur auf einem Samsung S21+ und Pixel 6 getestet.

@@ -1,0 +1,4 @@
+venv
+.buildozer
+bin
+saved_eklist.json
